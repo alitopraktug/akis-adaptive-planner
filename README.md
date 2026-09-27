@@ -174,7 +174,7 @@ Released under the [MIT License](LICENSE).
 
 **Ali Toprak Tuğtekin**
 
-Computer Engineering Student
+Computer Engineer
 
 Building practical software at the intersection of machine learning, personal analytics, and thoughtful product design. Akis is designed, developed, and maintained under the **ATT** signature.
 
